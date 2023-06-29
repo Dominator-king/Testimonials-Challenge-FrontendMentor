@@ -12,11 +12,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](images\Screenshot 2023-06-30 at 01-00-16 Frontend Mentor Challenge Name Here.png)
+[Screenshot](images\Screenshot 2023-06-30 at 01-00-16 Frontend Mentor Challenge Name Here.png)
 
 ### Links
 
-- Solution URL: [Solution]((https://github.com/Dominator-king/Testimonials-Challenge-FrontendMentor))
+- Solution URL: [Solution](https://github.com/Dominator-king/Testimonials-Challenge-FrontendMentor)
 - Live Site URL: [live site URL](https://your-live-site-url.com)
 
 ## My process
