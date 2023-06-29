@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Dominator-king/Testimonials-Challenge-FrontendMentor)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL]([https://your-live-site-url.com](https://dominator-king.github.io/Testimonials-Challenge-FrontendMentor/))
 
 ## My process
 - Started from the basic layout to make the divs and align them using flexbox.
